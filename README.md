@@ -1,6 +1,9 @@
 # Car Price Prediction
 
-https://lh3.googleusercontent.com/pw/AP1GczN1AtwhM_9heJosIL3XstsLp2m4AKL7ZL0JVZozTmBEgtiLDfQ0Zn-2toU_f-uh_r9vOuxAgKI8r28XTm3uoPSF-hKi0XUaf2RSPTskd63LVIZTNho2gawryTShtzCsJnWaMrYI5La1y0Wy4LR6zATh=w798-h400-s-no-gm?authuser=0
+ [![MasterHead](https://lh3.googleusercontent.com/pw/AP1GczN1AtwhM_9heJosIL3XstsLp2m4AKL7ZL0JVZozTmBEgtiLDfQ0Zn-2toU_f-uh_r9vOuxAgKI8r28XTm3uoPSF-hKi0XUaf2RSPTskd63LVIZTNho2gawryTShtzCsJnWaMrYI5La1y0Wy4LR6zATh=w798-h400-s-no-gm?authuser=0)](https://Avinraj01.io)
+
+
+
 ## Overview
 This project is a web-based application that predicts the selling price of a used car based on user inputs such as car company, model, year, fuel type, and kilometers driven. It is built using Flask for the backend and a trained Linear Regression model for predictions.
 
