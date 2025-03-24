@@ -1,5 +1,6 @@
 # Car Price Prediction
 
+
 ## Overview
 This project is a web-based application that predicts the selling price of a used car based on user inputs such as car company, model, year, fuel type, and kilometers driven. It is built using Flask for the backend and a trained Linear Regression model for predictions.
 
