@@ -19,6 +19,8 @@ This project is a web-based application that predicts the selling price of a use
 - **Frontend**: HTML, CSS, JavaScript, Bootstrap
 - **Machine Learning**: Scikit-learn, Pandas, NumPy
 
+[![MasterHead](https://lh3.googleusercontent.com/pw/AP1GczPbt7dgCbgt-QkJs2c0xwO4q-PlK3yguIB7nRK-ZbJ6KjjfVi9k7rCBvDQxJ5jugxmouwHSKyEDtcJhx2_C5juuGpZ40vvZEufQlCKOE3I1UaZoN8GjtEhbsF_RfLRntZUjWtwOvmOOAXNHVF-hiHhF=w1280-h720-s-no-gm?authuser=0)](https://Avinraj01.io)
+
 ## Installation & Setup
 ### 1. Clone the repository
 ```bash
