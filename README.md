@@ -1,6 +1,7 @@
 
 
  [![MasterHead](https://lh3.googleusercontent.com/pw/AP1GczN1AtwhM_9heJosIL3XstsLp2m4AKL7ZL0JVZozTmBEgtiLDfQ0Zn-2toU_f-uh_r9vOuxAgKI8r28XTm3uoPSF-hKi0XUaf2RSPTskd63LVIZTNho2gawryTShtzCsJnWaMrYI5La1y0Wy4LR6zATh=w798-h400-s-no-gm?authuser=0)](https://Avinraj01.io)
+ 
 # Car Price Prediction
 
 
